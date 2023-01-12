@@ -1,5 +1,6 @@
    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AristotelesAlves&show_icons=true&theme=dark" />
-# Olá! Eu me chamo </br>  Aristóteles Alves 👋
+   
+## Olá! Eu me chamo Aristóteles Alves 👋
 
 ###### Desenvolvedor Front-End
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AristotelesAlves" alt="AristotelesAlves" /> </p>
