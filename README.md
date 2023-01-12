@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Aristoteles GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aristotelesalves&theme=blue-green)
 <!--
 **AristotelesAlves/aristotelesalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
