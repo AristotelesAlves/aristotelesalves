@@ -1,29 +1,43 @@
-   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AristotelesAlves&show_icons=true&theme=dark" />
-   
 ## Olá! Eu me chamo Aristóteles Alves 👋
 
 ###### Desenvolvedor Front-End
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AristotelesAlves" alt="AristotelesAlves" /> </p>
 
 # Contate-me
 [![(Instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aristoteles269/)
 [![(Linkedin)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristoteles-aleves-de-oliveira-ab8089226/)
 [![(portfolio)](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aristoteles.dev.br) 
-[![Mail Badge](https://img.shields.io/badge/arystotelys@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arystotelys@gmail.com)](mailto:arystotelys@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/arystotely@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arystotelys@gmail.com)](mailto:arystotelys@gmail.com)
 
-# Tecnologias e ferramentas com as quais trabalho:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Apollo](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fjdo10-1.fna.fbcdn.net/v/t39.30808-6/409174221_756988589806052_1142804990553430928_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=RfHzl4oBMNkQ7kNvwHC9Gah&_nc_oc=AdkTdXLCtxehC_mWCYSIQnA5Y5VUsg1UnzxcuIp1yQZomZNHGA8C5R1N6RCjSddJrxI&_nc_zt=23&_nc_ht=scontent.fjdo10-1.fna&_nc_gid=2v1-5ZCUR_NXgP4r7x5JCA&oh=00_AfiLlsFAvhqEEt26doaaU0YO7QjQd2OdbBO8hONK1jW7sw&oe=6912E81F"/>](https://www.facebook.com/photo/?fbid=756988593139385&set=a.556916286479951)
+
+**Universidade Patativa do Assaré** \
+[**Universidade Patativa do Assaré**](https://universidadepatativa.com.br/site/) • Híbrido \
+Linguagens & Tecnologias: `PHP`, `Laravel`, `Vue.js`, `JavaScript`, `Docker`, `POO`, `Flutter`,\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/DevInovaTech/Cardapio/blob/main/web/public/Logo.jpeg?raw=true"/>](https://github.com/DevInovaTech/Cardapio/blob/main/web/public/Logo.jpeg)
+
+**Salada Conceito** • Freelancer \
+Linguagens & Tecnologias: `TypeScript`, `Node`, `React`\
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://instagram.fjdo10-2.fna.fbcdn.net/v/t51.2885-19/333099074_214862664450187_6022067703086254814_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=instagram.fjdo10-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QG3cOWmO7bn5365eppXmvmwAJi6rbyZ3HedG4pa8SlLAMCV0pUlprioF1OCfVmSX9s&_nc_ohc=qnX_LBGZf6UQ7kNvwEtlscF&_nc_gid=6_Bw_vThjsjMLH0Y7qaszw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfjjolemwU7Za8XNe9UhE6sk3VhuFYJ0nXPUuf5CEZ8OlA&oe=6912FE4E&_nc_sid=7d3ac5"/>](https://www.instagram.com/seasystemcariri/)
+
+**Sea System** \
+[**Sea System**]() • Híbrido \
+Linguagens & Tecnologias: `PHP`, `SQL`, `ERP`, `Laravel`, `DevOps`,\
+<br/>
+<br/>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/9590fee9-50b3-43a7-bb31-44ce60a189aa" />](https://www.instagram.com/seasystemcariri/)
+**Fundador CodeWave** \
+[**CodeWave**]() •  \
+Linguagens & Tecnologias: `PHP`, `SQL`, `ERP`, `Laravel`, `DevOps`,\
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
