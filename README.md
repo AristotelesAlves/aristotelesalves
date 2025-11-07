@@ -1,8 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Olá, Meu nome é Aristóteles Alves
+
+<img src="https://github.com/user-attachments/assets/f07bd58b-e2f0-42c6-8d45-288a9ad79690" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Desenvolvedor Full-Stack com experiência no desenvolvimento de aplicações web do front-end ao back-end. Tenho foco em entregar soluções eficientes, com código organizado e boas práticas de desenvolvimento.
+  
+  Atualmente, estou atuando em projetos que envolvem novas tecnologias e aprimorando minhas habilidades para criar produtos cada vez mais robustos e escaláveis.
 </p>
 
 <h3 align="left">
@@ -26,7 +30,7 @@
 </p>
 
 <p align="left">
-  Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Formas de contatos: ⤵️
 </p>
 <p align="left">
   <a href="#" title="Gmail">
@@ -59,12 +63,6 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `React`\
 
 **Sea System** \
 [**Sea System**]() • Híbrido \
-Linguagens & Tecnologias: `PHP`, `SQL`, `ERP`, `Laravel`, `DevOps`,\
-<br/>
-<br/>
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/9590fee9-50b3-43a7-bb31-44ce60a189aa" />](https://www.instagram.com/seasystemcariri/)
-**Fundador CodeWave** \
-[**CodeWave**]() •  \
 Linguagens & Tecnologias: `PHP`, `SQL`, `ERP`, `Laravel`, `DevOps`,\
 <br/>
 <br/>
